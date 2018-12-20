@@ -2,3 +2,7 @@ Il y a des utilisateurs
 Ils sont soit auteur de l'article soit visiteur avec possibilité de commenter
 Un article est donc lié a un utilisateur
 un commentaire est lié a un utilisateur
+
+Un utilisateur est composé de son email, pseudo, ndc et mdp
+Un article est composé de son titre, contenu, de l'id de son créateur
+Un commentaire est composé de son titre, contenu, de l'id de son créateur et de l'id de l'article auquel il est lié
