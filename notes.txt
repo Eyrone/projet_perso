@@ -1,0 +1,4 @@
+Il y a des utilisateurs
+Ils sont soit auteur de l'article soit visiteur avec possibilité de commenter
+Un article est donc lié a un utilisateur
+un commentaire est lié a un utilisateur
